@@ -1,7 +1,7 @@
-Api для проекта https://github.com/MaximKortnev/Online_book_shop
+## Api для проекта https://github.com/MaximKortnev/Online_book_shop
 
 
-# Технологии 
+### Технологии 
 - MsSql
 - Asp.Net core WebApi
 - Swagger
